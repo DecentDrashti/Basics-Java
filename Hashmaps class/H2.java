@@ -1,7 +1,7 @@
 //to get the value of a key, use the get() method.
 import java.util.HashMap;
 
-public class Main {
+public class H2 {
   public static void main(String[] args) {
     HashMap<String, String> capitalCities = new HashMap<String, String>();
     capitalCities.put("England", "London");
