@@ -1,5 +1,9 @@
 //not a programme but a basic knowledge of programme on how to scan it using scanner in java
 //how to scan an array 
+// scan a string
+import java.util.Scanner;
+ Scanner sc = new Scanner(System.in);
+
  System.out.println("enter the array length");
  int n=sc.nextInt();
  int[] strs = new int[n]; // create an array of size n
@@ -20,8 +24,7 @@ for (int i = 0; i < rows; i++) {
            array[i][j] = scan.next(); // read a string from the user and store it in the array
       }
 }
-// scan a string
-import java.util.Scanner;
+
 
 public class Main {
     public static void main(String[] args) {
