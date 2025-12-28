@@ -272,8 +272,10 @@ Fork → Code → Pull Request 🚀
 
 ## 👤 Author
 
-**DecentDrashti**
+**Drashti Ruparelia**
+
 Java Learner | Student | Educator
+
 GitHub: [https://github.com/DecentDrashti](https://github.com/DecentDrashti)
 
 ---
