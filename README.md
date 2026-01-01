@@ -262,13 +262,20 @@ git clone https://github.com/DecentDrashti/Basics-Java.git
 
 ## ✍️ Contributing
 
-Contributions are welcome! 🎉
+Contributions are always welcome! 🎉  
+This repository is built as a learning resource, and improvements are part of the journey.
 
-* Add new beginner‑friendly examples
-* Improve explanations
-* Fix bugs or optimize code
+You can contribute by:
+- Adding new beginner-friendly examples  
+- Improving explanations or documentation  
+- Fixing bugs or optimizing existing code  
 
-Fork → Code → Pull Request 🚀
+If you have **suggestions, feedback, or improvement ideas**, feel free to:
+- Reach out to me on LinkedIn: [Drashti Ruparelia](https://www.linkedin.com/in/drashti-ruparelia-67b7432b6)
+- Or drop a message via Email: [Drashti](mailto:drashtiruparelia.678@gmail.com)
+
+Fork → Code → Pull Request 🚀  
+Every small contribution helps make this resource better for learners 🌱
 
 ---
 
