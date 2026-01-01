@@ -1,0 +1,4 @@
+## To compile
+  javac Filename.java
+## To Run 
+  java Filenamme
