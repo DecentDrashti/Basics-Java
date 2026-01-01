@@ -243,18 +243,20 @@ git clone https://github.com/DecentDrashti/Basics-Java.git
 
 ## 📈 Learning Progression Recommendation
 
-Suggested order for beginners:
+**Suggested order for beginners:**
 
-1. Objects & Classes
-2. Methods
-3. Constructors
-4. Access Specifiers
-5. Arrays & 2D Arrays
-6. Scanner (Input)
-7. Collections
-8. File Handling
-9. Date & Time
-10. Recursion
+1. Objects & Classes  
+2. Methods  
+3. Constructors  
+4. Scanner (User Input)  
+5. Access Specifiers  
+6. Arrays & 2D Arrays  
+7. Collections  
+8. File Handling  
+9. Date & Time  
+10. Recursion  
+
+> 💡 This learning path is designed to help beginners build confidence early by writing interactive programs first, followed by structured data handling and advanced concepts.
 
 ---
 
