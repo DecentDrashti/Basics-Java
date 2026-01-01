@@ -236,7 +236,7 @@ git clone https://github.com/DecentDrashti/Basics-Java.git
 
 1️⃣ Open any folder
 2️⃣ Read the Java file
-3️⃣ [Run the program](https://github.com/DecentDrashti/Basics-Java/blob/main/run_java.txt)
+3️⃣ Run the program
 4️⃣ Modify and experiment
 
 ---
