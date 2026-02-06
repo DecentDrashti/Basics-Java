@@ -1,5 +1,3 @@
-//A HashSet is a collection of items where every item is unique, and it is found in the java.util package.
-// Import the HashSet class
 import java.util.HashSet;
 
 public class H1 {
@@ -13,8 +11,3 @@ public class H1 {
     System.out.println(cars);
   }
 }
-//methods are contains() remove() and clear().
-//size is a method that returns the number of elements in the HashSet.
-//contains is boolean method
-//remove removes an single element.
-//clear removes all elements.
