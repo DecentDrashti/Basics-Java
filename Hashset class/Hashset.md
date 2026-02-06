@@ -1,10 +1,21 @@
-## Defination:
-### A HashSet is a collection of items where every item is unique, and it is found in the java.util package.
+# HashSet in Java
 
-## can be called in the main method syntax:
-    HashSet<String> set = new HashSet<String>();
+## Definition:
+A **HashSet** is a collection that stores **unique elements only**.  
+It does not allow duplicate values and does not maintain insertion order.  
+It belongs to the `java.util` package.
+
+---
+
+## Syntax (Usage in main method):
+
+```java
+import java.util.HashSet;
+
+HashSet<String> set = new HashSet<>();
+```
     
-## Methods:
+## Commonly used Methods:
 ### 1.Contains() - set.contains(value): Returns true or false. 
 ### 2.Remove() - set.remove(value): Deletes the item.
 ### 3.Clear() - set.clear() removes all elements.
