@@ -124,7 +124,7 @@ Methods improve **code reusability and readability**.
 
 ### Objects & Classes
 
-📂 Folder: [Object](https://github.com/DecentDrashti/Basics-Java/tree/main/Object)
+📂 Folder: [Object & Classes](https://github.com/DecentDrashti/Basics-Java/tree/main/Object&Classes)
 
 **Concepts Covered:**
 
