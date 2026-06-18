@@ -17,3 +17,16 @@ class Parent {
 
 class Child extends Parent {
 }
+
+## Java supports:
+
+✔ Single Inheritance
+✔ Multilevel Inheritance
+✔ Hierarchical Inheritance
+
+Java does NOT support Multiple Inheritance using classes.
+
+## Reason:
+-It can create ambiguity (Diamond Problem).
+
+-To achieve multiple inheritance, Java uses Interfaces.
