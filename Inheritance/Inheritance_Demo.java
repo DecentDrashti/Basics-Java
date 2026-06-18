@@ -25,3 +25,7 @@ public class Inheritance_Demo {
         myDog.bark();
     }
 }
+
+// Output
+// Animal is eating
+// Dog is barking
