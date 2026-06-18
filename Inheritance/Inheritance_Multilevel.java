@@ -27,3 +27,8 @@ public class Inheritance_Multilevel {
         p.weep();
     }
 }
+
+// Output
+// Animal is eating
+// Dog is barking
+// Puppy is weeping
