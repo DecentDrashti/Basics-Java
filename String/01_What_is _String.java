@@ -15,6 +15,8 @@ Unlike primitive data types, String is an object.
 
 Strings in Java are immutable, which means once a
 String object is created, its value cannot be changed.
+
+--------------------------------------------------
 Example:
 
 String s = "Hello";
