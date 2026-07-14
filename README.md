@@ -18,6 +18,8 @@ A **topic‑wise, beginner‑friendly Java learning repository** containing clea
   * [Constructors](#constructors)
   * [Methods](#methods)
   * [Objects & Classes](#objects--classes)
+  * [Inheritance](#inheritance)
+  * [String](#string)
   * [Collections Framework](#collections-framework)
   * [File Handling](#file-handling)
   * [Date & Time](#date--time)
@@ -39,12 +41,17 @@ The aim is **clarity over complexity** — no unnecessary frameworks, no confusi
 
 ---
 
-## 👥 Who This Repository Is For
 
-✔️ Beginners starting Java from scratch
-✔️ BTech / Diploma / CS students
-✔️ Learners preparing for viva, exams, or interviews
-✔️ Anyone revising Java fundamentals quickly
+## 📊 Repository Highlights
+
+- 🌱 Beginner-friendly Java programs with simple explanations
+- 📁 Topic-wise organized folder structure for easy navigation
+- 💻 Practical examples with clean, well-commented code
+- 📖 Covers Core Java fundamentals including OOP, Collections, Strings, File Handling, and more
+- 🚀 Easy to run, modify, and experiment with
+- 🎓 Ideal for beginners, B.Tech/Diploma/Computer Science students
+- 📝 Helpful for college practicals, viva, exams, and interview preparation
+- 🔄 Continuously updated with new Java concepts and examples
 
 ---
 
@@ -134,6 +141,44 @@ Methods improve **code reusability and readability**.
 
 **Why this matters:**
 This is the **core of Object‑Oriented Programming (OOP)**.
+
+---
+
+### Inheritance
+
+📂 Folder: [Inheritance](https://github.com/DecentDrashti/Basics-Java/tree/main/Inheritance)
+
+**Concepts Covered:**
+
+* Introduction to Inheritance
+* Types of Inheritance in Java
+* Single Inheritance
+* Multilevel Inheritance
+* Hierarchical Inheritance
+
+**Why this matters:**
+
+Inheritance is one of the four pillars of Object-Oriented Programming (OOP). It promotes **code reusability**, reduces duplication, and allows a child class to inherit properties and methods from a parent class.
+
+---
+
+### String
+
+📂 Folder: [String](https://github.com/DecentDrashti/Basics-Java/tree/main/String)
+
+**Concepts Covered:**
+
+* What is String?
+* Creating Strings
+* String Comparison (`==`, `equals()`, `equalsIgnoreCase()`)
+* Common String Methods
+* String Immutability
+* StringBuilder
+* StringBuffer
+
+**Why this matters:**
+
+Strings are one of the most frequently used data types in Java. Understanding how Strings work is essential for handling user input, processing text, file operations, and solving coding problems efficiently.
 
 ---
 
@@ -245,16 +290,18 @@ git clone https://github.com/DecentDrashti/Basics-Java.git
 
 **Suggested order for beginners:**
 
-1. Objects & Classes  
-2. Methods  
-3. Constructors  
-4. Scanner (User Input)  
-5. Access Specifiers  
-6. Arrays & 2D Arrays  
-7. Collections  
-8. File Handling  
-9. Date & Time  
-10. Recursion  
+1. Objects & Classes
+2. Methods
+3. Constructors
+4. Scanner (User Input)
+5. Access Specifiers
+6. Arrays & 2D Arrays
+7. String
+8. Inheritance
+9. Collections Framework
+10. File Handling
+11. Date & Time
+12. Recursion
 
 > 💡 This learning path is designed to help beginners build confidence early by writing interactive programs first, followed by structured data handling and advanced concepts.
 
