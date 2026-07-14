@@ -9,7 +9,7 @@ A **topic‑wise, beginner‑friendly Java learning repository** containing clea
 ## 📑 Table of Contents
 
 * [About the Repository](#about-the-repository)
-* [Who This Repository Is For](#who-this-repository-is-for)
+* [Repository Highlights](#Repository-Highlights)
 * [How This Repository Is Organized](#how-this-repository-is-organized)
 * [📚 Topic‑Wise Learning Path](#-topic-wise-learning-path)
 
