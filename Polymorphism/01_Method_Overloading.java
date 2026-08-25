@@ -120,3 +120,9 @@ public class Method_Overloading {
         System.out.println("Integer and string: " + add(20, " students"));
     }
 }
+//output:
+// Two integers: 30
+// Three integers: 60
+// Two doubles: 31.0
+// String and integer: Age: 20
+Integer and string: 20 students
