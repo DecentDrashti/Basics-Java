@@ -341,11 +341,12 @@ git clone https://github.com/DecentDrashti/Basics-Java.git
 6. Arrays & 2D Arrays
 7. String
 8. Inheritance
-9. Exception Handling
-10. Collections Framework
-11. File Handling
-12. Date & Time
-13. Recursion
+9. Polymorphism
+10. Exception Handling
+11. Collections Framework
+12. File Handling
+13. Date & Time
+14. Recursion
 
 > 💡 This learning path is designed to help beginners build confidence early by writing interactive programs first, followed by structured data handling and advanced concepts.
 
