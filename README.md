@@ -19,6 +19,7 @@ A **topic‑wise, beginner‑friendly Java learning repository** containing clea
   * [Methods](#methods)
   * [Objects & Classes](#objects--classes)
   * [Inheritance](#inheritance)
+  * [Polymorphism](#polymorphism)
   * [Exception Handling](#exception-handling)
   * [String](#string)
   * [Collections Framework](#collections-framework)
@@ -162,6 +163,24 @@ This is the **core of Object‑Oriented Programming (OOP)**.
 Inheritance is one of the four pillars of Object-Oriented Programming (OOP). It promotes **code reusability**, reduces duplication, and allows a child class to inherit properties and methods from a parent class.
 
 ---
+
+### Polymorphism
+
+📂 Folder: [Polymorphism](https://github.com/DecentDrashti/Basics-Java/tree/main/Polymorphism)
+
+**Concepts Covered:**
+
+* Introduction to Polymorphism
+* Method Overloading
+* Compile-time Polymorphism
+* Method Overriding
+* Runtime Polymorphism
+* `@Override` annotation
+* Overloading vs Overriding
+
+**Why this matters:**
+
+Polymorphism is one of the four pillars of Object-Oriented Programming (OOP). It allows the **same method name to have different behaviors** depending on the parameters or the actual object being used.
 
 ---
 
