@@ -19,6 +19,7 @@ A **topic‑wise, beginner‑friendly Java learning repository** containing clea
   * [Methods](#methods)
   * [Objects & Classes](#objects--classes)
   * [Inheritance](#inheritance)
+  * [Exception Handling](#exception-handling)
   * [String](#string)
   * [Collections Framework](#collections-framework)
   * [File Handling](#file-handling)
@@ -162,6 +163,29 @@ Inheritance is one of the four pillars of Object-Oriented Programming (OOP). It 
 
 ---
 
+---
+
+### Exception Handling
+
+📂 Folder: [Exception Handling](https://github.com/DecentDrashti/Basics-Java/tree/main/Exception%20Handling)
+
+**Concepts Covered:**
+
+* What is an Exception?
+* Exception vs Error
+* Checked and Unchecked Exceptions
+* `try-catch`
+* Multiple `catch` blocks
+* `finally`
+* `throw` and `throws`
+* Custom Exceptions
+
+**Why this matters:**
+
+Exception Handling allows Java programs to **handle unexpected problems gracefully** instead of terminating the program unexpectedly. It helps make applications more reliable, readable, and robust.
+
+---
+
 ### String
 
 📂 Folder: [String](https://github.com/DecentDrashti/Basics-Java/tree/main/String)
@@ -298,10 +322,11 @@ git clone https://github.com/DecentDrashti/Basics-Java.git
 6. Arrays & 2D Arrays
 7. String
 8. Inheritance
-9. Collections Framework
-10. File Handling
-11. Date & Time
-12. Recursion
+9. Exception Handling
+10. Collections Framework
+11. File Handling
+12. Date & Time
+13. Recursion
 
 > 💡 This learning path is designed to help beginners build confidence early by writing interactive programs first, followed by structured data handling and advanced concepts.
 
